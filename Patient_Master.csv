@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,City,Diagnosis_Date,Cancer_Type,Stage
+P0001,63,Female,Port Richardbury,2021-05-07,Colorectal,Stage II
+P0002,76,Female,East Davidport,2023-12-20,Prostate,Stage IV
+P0003,53,Male,Meganmouth,2023-02-05,Leukemia,Stage I
+P0004,39,Female,Port Jonathanshire,2022-06-12,Lung,Stage IV
+P0005,67,Male,West Dawn,2024-01-13,Prostate,Stage II
+P0006,32,Female,Coletown,2020-11-06,Colorectal,Stage IV
+P0007,45,Female,Freemanmouth,2022-01-08,Leukemia,Stage IV
+P0008,63,Female,New Hunterborough,2023-04-08,Lung,Stage IV
+P0009,82,Female,Owensberg,2021-06-29,Prostate,Stage IV
+P0010,43,Female,Melissaview,2021-02-17,Lung,Stage II
+P0011,47,Male,Jenniferville,2020-09-07,Colorectal,Stage I
+P0012,35,Male,Port Elizabethtown,2022-01-28,Lung,Stage III
+P0013,35,Female,East Ryan,2024-12-09,Breast,Stage IV
+P0014,48,Female,North Jenna,2023-03-10,Prostate,Stage I
+P0015,77,Male,Rayview,2023-07-21,Lung,Stage I
+P0016,60,Female,Hayeschester,2023-12-10,Colorectal,Stage II
+P0017,64,Female,West Gabrielaside,2024-06-19,Colorectal,Stage I
+P0018,48,Male,New Lauraborough,2024-10-28,Lung,Stage II
+P0019,27,Female,Jacobburgh,2022-11-28,Colorectal,Stage IV
+P0020,46,Female,New Matthew,2022-03-24,Leukemia,Stage IV
+P0021,77,Male,Port David,2020-01-29,Leukemia,Stage III
+P0022,26,Male,New Deborah,2022-08-15,Leukemia,Stage III
+P0023,48,Male,North Danielle,2021-04-21,Breast,Stage III
+P0024,68,Female,North Phillip,2020-11-13,Lung,Stage I
+P0025,54,Male,East Erica,2020-09-01,Breast,Stage IV
+P0026,62,Male,East Thomasburgh,2022-01-17,Colorectal,Stage II
+P0027,26,Male,East Richardfurt,2021-11-27,Breast,Stage III
+P0028,84,Male,Christiemouth,2020-09-28,Colorectal,Stage II
+P0029,45,Male,Nicoleside,2024-01-03,Colorectal,Stage II
+P0030,57,Male,New Nicholas,2024-11-06,Prostate,Stage III
+P0031,36,Female,East Teresa,2023-06-16,Leukemia,Stage IV
+P0032,82,Female,North Matthewberg,2021-01-11,Colorectal,Stage III
+P0033,46,Male,Collinsmouth,2020-09-22,Prostate,Stage II
+P0034,68,Male,Port Allison,2022-07-14,Leukemia,Stage III
+P0035,49,Male,Lake Davidberg,2022-07-09,Colorectal,Stage II
+P0036,73,Female,Lake Richard,2023-10-14,Colorectal,Stage II
+P0037,51,Female,Wagnermouth,2020-12-05,Breast,Stage III
+P0038,83,Female,South Jodihaven,2021-01-23,Breast,Stage I
+P0039,66,Female,Fishermouth,2021-07-30,Leukemia,Stage III
+P0040,52,Female,South Kirkfurt,2024-09-08,Colorectal,Stage I
+P0041,84,Female,Johnsontown,2020-01-03,Lung,Stage II
+P0042,40,Female,Barrettbury,2023-12-23,Breast,Stage II
+P0043,39,Female,East Curtis,2023-03-11,Leukemia,Stage I
+P0044,71,Female,South Christopher,2021-01-10,Colorectal,Stage II
+P0045,75,Male,Zimmermanmouth,2024-08-20,Colorectal,Stage I
+P0046,68,Male,South Nicholas,2020-11-19,Lung,Stage I
+P0047,79,Male,Coopermouth,2020-05-25,Leukemia,Stage II
+P0048,76,Male,New Amberton,2020-10-19,Colorectal,Stage IV
+P0049,81,Female,Wolfeview,2024-08-15,Breast,Stage I
+P0050,27,Female,Colemanland,2021-03-07,Lung,Stage III
+P0051,61,Male,Leahhaven,2021-12-05,Leukemia,Stage III
+P0052,75,Female,Lake Angela,2022-08-06,Lung,Stage II
+P0053,31,Male,New Lisaview,2021-08-07,Breast,Stage IV
+P0054,45,Female,Port Tracy,2021-02-02,Leukemia,Stage II
+P0055,33,Male,New Brian,2022-03-27,Lung,Stage IV
+P0056,63,Female,Olsonmouth,2023-09-29,Prostate,Stage I
+P0057,42,Female,Tannershire,2022-08-21,Breast,Stage I
+P0058,28,Male,Moranhaven,2023-03-09,Breast,Stage I
+P0059,49,Female,Johnberg,2020-07-05,Breast,Stage I
+P0060,84,Male,Lewisview,2020-03-01,Prostate,Stage III
+P0061,38,Male,Angelaville,2022-07-27,Prostate,Stage III
+P0062,74,Male,Lake Meagan,2023-11-04,Colorectal,Stage II
+P0063,82,Male,West Michael,2021-12-10,Lung,Stage IV
+P0064,33,Female,Marshtown,2022-03-17,Colorectal,Stage I
+P0065,50,Female,Clairemouth,2024-01-03,Lung,Stage I
+P0066,77,Female,Port Benjaminshire,2023-09-04,Prostate,Stage IV
+P0067,26,Male,Lake Kevin,2023-08-18,Prostate,Stage IV
+P0068,44,Female,West Ericstad,2023-09-29,Colorectal,Stage II
+P0069,52,Male,Port Joelland,2020-01-11,Leukemia,Stage IV
+P0070,71,Female,Millermouth,2022-12-21,Colorectal,Stage I
+P0071,84,Female,Tinatown,2020-08-13,Lung,Stage I
+P0072,31,Female,Port Jeremy,2023-03-22,Colorectal,Stage I
+P0073,68,Male,Jamesmouth,2024-09-30,Breast,Stage I
+P0074,32,Female,Julieberg,2021-07-17,Lung,Stage I
+P0075,71,Female,Mooreside,2022-02-10,Lung,Stage II
+P0076,59,Male,Port Juliefurt,2024-05-13,Leukemia,Stage I
+P0077,38,Female,Wilsonburgh,2024-05-26,Prostate,Stage II
+P0078,41,Male,South Jeffrey,2024-08-10,Lung,Stage I
+P0079,60,Female,Mccormicktown,2024-05-17,Prostate,Stage III
+P0080,74,Male,New Toddtown,2023-08-26,Colorectal,Stage III
+P0081,64,Male,North Mark,2022-06-03,Breast,Stage III
+P0082,28,Female,Molinaside,2023-06-20,Leukemia,Stage III
+P0083,26,Male,East Chelseyberg,2024-02-25,Prostate,Stage II
+P0084,30,Male,North Alexandraport,2023-10-21,Lung,Stage II
+P0085,78,Male,East Ronald,2023-09-15,Prostate,Stage IV
+P0086,66,Male,Ramirezfurt,2023-02-04,Lung,Stage I
+P0087,28,Male,Payneland,2020-08-13,Prostate,Stage III
+P0088,78,Male,Lake Sheriberg,2022-04-04,Lung,Stage II
+P0089,53,Female,South James,2020-08-05,Colorectal,Stage I
+P0090,42,Male,North Tara,2022-07-25,Lung,Stage I
+P0091,50,Male,West Amandamouth,2022-01-22,Lung,Stage II
+P0092,68,Female,Gibsonbury,2021-05-20,Breast,Stage III
+P0093,58,Female,South Jennifer,2020-09-15,Lung,Stage IV
+P0094,34,Female,Lopezberg,2024-12-02,Breast,Stage I
+P0095,60,Female,Victoriaberg,2024-03-20,Leukemia,Stage IV
+P0096,38,Female,South Jennifer,2024-12-01,Breast,Stage III
+P0097,55,Female,East Heather,2020-02-23,Colorectal,Stage III
+P0098,72,Female,North Lisa,2022-12-06,Breast,Stage IV
+P0099,39,Male,Johnsonton,2021-12-27,Leukemia,Stage III
+P0100,32,Male,New Kaitlin,2021-11-19,Colorectal,Stage I
+P0101,38,Female,North Andrewhaven,2024-03-24,Prostate,Stage IV
+P0102,47,Male,Arthurville,2023-01-27,Prostate,Stage III
+P0103,84,Male,Lake Shawn,2022-11-09,Breast,Stage IV
+P0104,81,Male,Matthewview,2024-11-11,Breast,Stage I
+P0105,64,Female,Tannerport,2024-05-15,Leukemia,Stage III
+P0106,45,Female,North Sara,2024-02-22,Leukemia,Stage I
+P0107,40,Male,New Ryanmouth,2021-02-22,Lung,Stage III
+P0108,69,Female,North Julie,2021-11-20,Leukemia,Stage II
+P0109,42,Male,West Whitney,2022-04-29,Lung,Stage III
+P0110,71,Male,Murillofurt,2020-03-02,Colorectal,Stage IV
+P0111,77,Male,Monicaborough,2023-03-14,Breast,Stage III
+P0112,48,Male,East Brandon,2020-08-03,Colorectal,Stage I
+P0113,50,Female,Moorehaven,2020-01-03,Leukemia,Stage I
+P0114,49,Female,Lake Joymouth,2020-06-08,Colorectal,Stage III
+P0115,84,Female,New Ronald,2024-10-28,Colorectal,Stage IV
+P0116,84,Male,Port Emilyberg,2022-02-19,Colorectal,Stage II
+P0117,84,Female,Miguelburgh,2023-02-17,Leukemia,Stage IV
+P0118,69,Male,East Vincentfurt,2022-06-11,Colorectal,Stage II
+P0119,65,Female,Pattersonborough,2023-01-17,Lung,Stage I
+P0120,53,Male,Lake Kathleen,2020-11-24,Leukemia,Stage IV
+P0121,39,Male,New Blake,2021-08-02,Colorectal,Stage II
+P0122,69,Male,Lake Nicholas,2023-10-12,Leukemia,Stage III
+P0123,25,Female,Markside,2024-06-21,Prostate,Stage I
+P0124,49,Female,South Joseph,2023-07-14,Lung,Stage III
+P0125,31,Female,New Eileenmouth,2024-06-28,Colorectal,Stage I
+P0126,33,Female,Ryanstad,2022-08-09,Prostate,Stage IV
+P0127,48,Male,Lake Danielberg,2023-09-08,Prostate,Stage IV
+P0128,25,Female,Whitakerfort,2021-09-26,Leukemia,Stage I
+P0129,68,Female,Port Katie,2022-09-14,Prostate,Stage I
+P0130,32,Male,Port Dennis,2024-04-13,Lung,Stage I
+P0131,48,Male,Samanthaton,2024-07-30,Lung,Stage IV
+P0132,35,Male,Coxshire,2023-05-03,Breast,Stage II
+P0133,75,Female,Tonystad,2022-07-09,Lung,Stage III
+P0134,41,Male,Brownfurt,2022-01-07,Prostate,Stage III
+P0135,32,Male,Sarahmouth,2023-09-17,Lung,Stage IV
+P0136,59,Male,Snyderbury,2020-06-18,Leukemia,Stage III
+P0137,59,Female,Port Johnport,2021-06-04,Breast,Stage I
+P0138,57,Male,New Kathleen,2024-01-26,Prostate,Stage II
+P0139,83,Female,Timothyton,2020-02-09,Breast,Stage III
+P0140,29,Female,Adamsview,2024-04-09,Prostate,Stage II
+P0141,66,Male,East Travis,2023-07-08,Leukemia,Stage I
+P0142,63,Male,Philiptown,2023-11-19,Breast,Stage III
+P0143,82,Female,Tinaburgh,2022-08-12,Colorectal,Stage IV
+P0144,65,Male,Leahbury,2023-06-03,Prostate,Stage II
+P0145,52,Male,Port Anthonyborough,2022-09-10,Colorectal,Stage I
+P0146,31,Female,Wareton,2023-02-21,Breast,Stage II
+P0147,33,Female,Bergerborough,2022-09-01,Colorectal,Stage III
+P0148,32,Male,West Melissa,2020-02-07,Colorectal,Stage III
+P0149,36,Female,Lake Christopherbury,2020-11-23,Breast,Stage IV
+P0150,58,Male,Royborough,2023-06-28,Leukemia,Stage I
+P0151,57,Male,New Tina,2023-04-14,Colorectal,Stage I
+P0152,72,Male,Fosterberg,2024-06-13,Colorectal,Stage IV
+P0153,79,Female,Port Laurenfort,2022-07-02,Leukemia,Stage IV
+P0154,47,Male,Jeffburgh,2021-03-29,Colorectal,Stage I
+P0155,48,Male,New Wendyfurt,2020-02-06,Colorectal,Stage II
+P0156,61,Male,Franciscotown,2023-09-01,Colorectal,Stage II
+P0157,59,Female,Karahaven,2024-09-07,Lung,Stage IV
+P0158,68,Female,Tamiborough,2022-08-30,Leukemia,Stage II
+P0159,64,Female,Mileschester,2022-03-06,Colorectal,Stage I
+P0160,46,Female,West Michael,2022-08-30,Leukemia,Stage III
+P0161,51,Female,Lake Courtney,2021-08-15,Prostate,Stage III
+P0162,59,Male,Wardmouth,2023-02-11,Prostate,Stage II
+P0163,25,Female,South Anna,2022-11-29,Colorectal,Stage IV
+P0164,59,Female,Michaelshire,2023-08-17,Leukemia,Stage IV
+P0165,61,Female,Sarahland,2020-08-11,Leukemia,Stage IV
+P0166,71,Male,Gardnermouth,2020-11-13,Leukemia,Stage IV
+P0167,38,Female,East Lindsay,2020-12-14,Lung,Stage IV
+P0168,27,Female,New Nathan,2020-04-24,Prostate,Stage II
+P0169,25,Male,New Danielmouth,2021-11-28,Leukemia,Stage III
+P0170,29,Female,Thomasshire,2023-09-08,Leukemia,Stage III
+P0171,50,Male,North Kristopher,2024-05-10,Lung,Stage II
+P0172,79,Male,Warnerberg,2022-11-29,Lung,Stage IV
+P0173,38,Male,Jenniferville,2020-02-09,Leukemia,Stage II
+P0174,63,Male,North Kimberly,2024-11-07,Breast,Stage III
+P0175,51,Male,Jensenhaven,2023-08-05,Leukemia,Stage I
+P0176,33,Female,Williamchester,2023-07-09,Leukemia,Stage II
+P0177,39,Male,West Jesus,2020-08-03,Lung,Stage IV
+P0178,39,Male,Bruceberg,2023-03-16,Lung,Stage III
+P0179,50,Female,Port Andrea,2020-12-01,Leukemia,Stage III
+P0180,66,Male,Maryshire,2023-04-06,Leukemia,Stage III
+P0181,84,Female,Port William,2020-04-01,Leukemia,Stage III
+P0182,37,Female,Port Beth,2020-12-18,Lung,Stage IV
+P0183,75,Female,North Linda,2021-07-24,Leukemia,Stage I
+P0184,56,Male,New David,2024-05-13,Leukemia,Stage III
+P0185,63,Male,South Tammyshire,2022-03-26,Colorectal,Stage II
+P0186,73,Male,East Joseph,2024-08-31,Breast,Stage I
+P0187,76,Female,Youngfort,2022-02-19,Prostate,Stage III
+P0188,56,Male,New Michael,2020-12-28,Breast,Stage I
+P0189,28,Male,Brandonshire,2021-07-10,Colorectal,Stage II
+P0190,54,Male,Sheltonport,2023-09-30,Prostate,Stage III
+P0191,61,Female,Perryview,2024-09-12,Leukemia,Stage II
+P0192,47,Female,Jeffreyport,2023-04-08,Colorectal,Stage IV
+P0193,63,Male,Deniseton,2020-12-21,Leukemia,Stage III
+P0194,69,Male,New Donaldmouth,2020-07-09,Lung,Stage III
+P0195,39,Male,North Shannon,2024-08-17,Colorectal,Stage III
+P0196,67,Male,North Stephanie,2021-02-25,Lung,Stage III
+P0197,53,Female,Daisyborough,2021-11-30,Colorectal,Stage IV
+P0198,60,Female,East Richard,2020-01-07,Colorectal,Stage III
+P0199,37,Female,New Jessica,2020-05-12,Lung,Stage I
+P0200,56,Female,Barkerside,2024-11-05,Prostate,Stage III
+P0201,31,Male,Sherryview,2021-07-10,Breast,Stage IV
+P0202,83,Male,Lake Aaron,2022-04-05,Leukemia,Stage III
+P0203,75,Male,Port Jenniferland,2022-01-30,Colorectal,Stage I
+P0204,46,Female,East Melinda,2022-11-20,Leukemia,Stage IV
+P0205,52,Male,Courtneybury,2021-06-18,Lung,Stage IV
+P0206,26,Female,Lake Joshuatown,2021-03-01,Leukemia,Stage I
+P0207,66,Female,Maddenshire,2023-11-18,Lung,Stage I
+P0208,69,Male,Velasqueztown,2021-11-02,Leukemia,Stage I
+P0209,81,Male,Kellerchester,2020-12-28,Breast,Stage I
+P0210,77,Male,Port Patrick,2023-12-31,Breast,Stage I
+P0211,30,Female,East Michael,2024-08-20,Breast,Stage IV
+P0212,52,Male,New Brittanymouth,2024-04-23,Breast,Stage IV
+P0213,52,Female,South Brianmouth,2020-03-22,Breast,Stage III
+P0214,68,Male,Timothyborough,2020-12-21,Breast,Stage III
+P0215,68,Female,Brewerside,2023-07-05,Lung,Stage II
+P0216,44,Female,North Diane,2024-10-07,Colorectal,Stage III
+P0217,54,Male,Meadowsville,2021-08-11,Leukemia,Stage III
+P0218,35,Female,West Robinchester,2024-03-27,Breast,Stage I
+P0219,82,Female,Buckfort,2020-10-21,Lung,Stage I
+P0220,79,Male,Briggschester,2023-06-01,Lung,Stage III
+P0221,52,Female,Ryanmouth,2024-03-28,Lung,Stage II
+P0222,49,Male,Mccoytown,2022-12-05,Colorectal,Stage I
+P0223,63,Female,Port Taylormouth,2024-08-17,Leukemia,Stage III
+P0224,57,Male,North Gerald,2023-02-10,Colorectal,Stage III
+P0225,25,Male,Lewisborough,2023-06-10,Prostate,Stage IV
+P0226,81,Female,Lake Davidchester,2020-01-17,Lung,Stage II
+P0227,51,Female,Andrewberg,2020-12-25,Prostate,Stage IV
+P0228,81,Female,Marcochester,2023-05-31,Breast,Stage II
+P0229,76,Female,South Joshuamouth,2022-05-15,Breast,Stage I
+P0230,37,Female,East Michaelchester,2021-11-30,Colorectal,Stage II
+P0231,65,Male,Port Juliafort,2021-03-23,Leukemia,Stage III
+P0232,27,Female,South Jenniferbury,2022-05-05,Prostate,Stage III
+P0233,63,Male,Port David,2020-12-30,Leukemia,Stage II
+P0234,30,Male,Colemanbury,2021-11-05,Colorectal,Stage II
+P0235,32,Female,Leestad,2022-10-04,Breast,Stage II
+P0236,51,Male,Leonside,2023-09-11,Leukemia,Stage IV
+P0237,33,Male,Lake Clarence,2021-04-11,Leukemia,Stage II
+P0238,61,Male,Kathrynside,2021-02-17,Breast,Stage I
+P0239,57,Male,North Michelleton,2024-01-18,Prostate,Stage IV
+P0240,75,Female,Calvinville,2021-08-08,Breast,Stage IV
+P0241,66,Male,Morrisshire,2023-06-10,Leukemia,Stage II
+P0242,68,Female,Marcusland,2023-06-01,Prostate,Stage I
+P0243,48,Female,Lake Ryanside,2022-09-20,Prostate,Stage IV
+P0244,39,Male,Ericaberg,2023-12-06,Breast,Stage III
+P0245,83,Female,East Carol,2021-07-25,Leukemia,Stage IV
+P0246,78,Female,Jacquelinefurt,2020-11-30,Colorectal,Stage II
+P0247,56,Female,Dianaborough,2023-05-30,Leukemia,Stage I
+P0248,56,Male,North Meredith,2020-02-06,Lung,Stage II
+P0249,48,Female,Lake Anthony,2022-09-15,Colorectal,Stage III
+P0250,65,Female,Lake Ronaldland,2020-10-04,Prostate,Stage III
+P0251,76,Female,Amberville,2023-05-04,Colorectal,Stage III
+P0252,73,Male,Bryanton,2022-07-04,Prostate,Stage II
+P0253,73,Female,Allenchester,2021-04-28,Prostate,Stage IV
+P0254,82,Male,Port Michael,2023-06-19,Colorectal,Stage II
+P0255,76,Male,Michaelfurt,2023-09-09,Prostate,Stage I
+P0256,36,Male,Lake Stephenmouth,2021-12-31,Prostate,Stage IV
+P0257,63,Male,West Melissa,2020-07-10,Lung,Stage III
+P0258,26,Male,South Katie,2022-11-06,Leukemia,Stage II
+P0259,27,Male,Lake Charlesview,2021-06-07,Leukemia,Stage III
+P0260,73,Female,South Samanthaport,2022-07-06,Lung,Stage III
+P0261,61,Male,North Mollyland,2021-02-04,Colorectal,Stage I
+P0262,73,Female,Scottbury,2022-06-04,Breast,Stage IV
+P0263,80,Female,Port Nicolas,2021-12-05,Breast,Stage I
+P0264,41,Male,Port Alexanderfort,2020-01-22,Breast,Stage I
+P0265,83,Female,Nicoleside,2021-04-18,Lung,Stage I
+P0266,73,Female,West Georgeshire,2023-02-17,Lung,Stage III
+P0267,26,Female,North Joymouth,2020-07-28,Prostate,Stage I
+P0268,26,Female,West Ryanside,2020-11-01,Breast,Stage I
+P0269,52,Male,Huffburgh,2023-07-17,Colorectal,Stage IV
+P0270,78,Female,Scottview,2021-12-04,Colorectal,Stage IV
+P0271,47,Male,Beckview,2021-11-17,Breast,Stage I
+P0272,61,Female,Andrewbury,2020-10-11,Breast,Stage IV
+P0273,56,Female,Port Teresa,2021-12-16,Breast,Stage IV
+P0274,57,Male,North Donald,2024-08-26,Lung,Stage I
+P0275,25,Female,Lake Michele,2022-02-01,Lung,Stage III
+P0276,43,Female,South Willie,2023-06-04,Lung,Stage I
+P0277,26,Female,Reedfurt,2022-08-05,Leukemia,Stage IV
+P0278,77,Male,Port Karenmouth,2021-01-15,Colorectal,Stage III
+P0279,68,Female,East Marthachester,2021-04-04,Colorectal,Stage II
+P0280,50,Male,Teresaton,2022-10-27,Prostate,Stage III
+P0281,56,Female,Zacharyfurt,2020-01-29,Lung,Stage IV
+P0282,30,Male,Freemanmouth,2022-06-25,Leukemia,Stage III
+P0283,56,Male,West Rebecca,2022-11-22,Leukemia,Stage I
+P0284,79,Female,Aliciatown,2024-07-27,Colorectal,Stage II
+P0285,28,Female,Lawrencefurt,2022-05-28,Lung,Stage II
+P0286,79,Male,East Steven,2020-03-19,Prostate,Stage II
+P0287,35,Male,Reginaside,2022-08-04,Lung,Stage IV
+P0288,80,Female,Lake Dustinland,2021-04-03,Breast,Stage IV
+P0289,83,Male,Lake Carlymouth,2021-07-23,Lung,Stage II
+P0290,41,Female,Port Alanmouth,2024-04-10,Breast,Stage III
+P0291,62,Female,Tylerville,2024-02-14,Breast,Stage II
+P0292,48,Female,North Christophertown,2023-12-24,Prostate,Stage III
+P0293,29,Female,Jennifertown,2022-01-07,Colorectal,Stage III
+P0294,76,Male,Seanville,2023-08-01,Lung,Stage IV
+P0295,58,Female,New Derekfurt,2021-05-30,Breast,Stage III
+P0296,30,Male,Samanthaberg,2023-01-27,Lung,Stage II
+P0297,46,Female,Port Jeffreyport,2021-01-31,Colorectal,Stage IV
+P0298,35,Male,Lake Juan,2024-02-21,Colorectal,Stage I
+P0299,72,Female,Lisashire,2020-02-08,Leukemia,Stage I
+P0300,40,Male,South Brittany,2023-07-18,Colorectal,Stage IV
+P0301,57,Male,Brianchester,2022-06-05,Prostate,Stage II
+P0302,33,Female,Robertsonville,2022-03-07,Breast,Stage I
+P0303,84,Female,Wigginsport,2020-06-05,Leukemia,Stage I
+P0304,83,Female,East Patrick,2023-01-03,Prostate,Stage III
+P0305,30,Female,Lake Daltonfort,2022-06-02,Lung,Stage III
+P0306,40,Male,Jefferychester,2024-12-28,Breast,Stage II
+P0307,53,Female,North Nathanielfort,2023-02-27,Colorectal,Stage IV
+P0308,27,Male,Davenportfurt,2024-09-06,Breast,Stage II
+P0309,44,Male,Nicoleview,2022-08-31,Lung,Stage IV
+P0310,84,Female,Coxburgh,2023-01-12,Leukemia,Stage I
+P0311,83,Male,North Andrewstad,2022-11-11,Leukemia,Stage III
+P0312,60,Male,Cantuhaven,2024-01-22,Leukemia,Stage II
+P0313,43,Male,Nelsonmouth,2024-04-11,Colorectal,Stage II
+P0314,50,Male,East Gabrielport,2024-09-26,Prostate,Stage IV
+P0315,27,Female,West Brian,2022-04-28,Prostate,Stage IV
+P0316,43,Female,Lake Kellyfort,2023-11-06,Breast,Stage II
+P0317,44,Female,South Amytown,2022-01-17,Colorectal,Stage IV
+P0318,56,Female,Russostad,2024-01-03,Leukemia,Stage II
+P0319,31,Male,New Judy,2024-06-15,Leukemia,Stage II
+P0320,76,Male,Friedmanport,2022-09-15,Lung,Stage II
+P0321,65,Female,North Sonyaview,2020-01-21,Lung,Stage I
+P0322,57,Female,Russellfort,2020-10-29,Leukemia,Stage IV
+P0323,64,Female,Collinsburgh,2022-05-18,Leukemia,Stage III
+P0324,63,Male,New Lindsey,2020-03-24,Colorectal,Stage III
+P0325,42,Female,Davidland,2024-12-02,Prostate,Stage IV
+P0326,64,Female,Brownfurt,2024-08-09,Lung,Stage II
+P0327,25,Female,North Andreastad,2024-01-16,Prostate,Stage III
+P0328,35,Male,Kellyton,2023-11-11,Colorectal,Stage III
+P0329,52,Male,Bradleyfurt,2024-03-10,Leukemia,Stage IV
+P0330,81,Male,Cuevashaven,2023-07-04,Prostate,Stage III
+P0331,49,Male,Port Andrewstad,2021-07-23,Leukemia,Stage II
+P0332,74,Male,Lake Courtney,2022-07-22,Leukemia,Stage IV
+P0333,47,Male,Wilsonshire,2024-03-30,Breast,Stage II
+P0334,55,Male,North Ericaville,2023-03-31,Prostate,Stage III
+P0335,54,Male,Tuckerchester,2023-04-01,Prostate,Stage III
+P0336,66,Female,New Christine,2022-10-05,Leukemia,Stage II
+P0337,59,Female,West Brendastad,2022-03-03,Colorectal,Stage I
+P0338,31,Male,Chavezchester,2022-03-02,Breast,Stage III
+P0339,84,Male,Lake Sarah,2024-03-27,Leukemia,Stage I
+P0340,40,Female,Brittanyhaven,2024-12-14,Lung,Stage III
+P0341,50,Male,Sandrahaven,2023-07-18,Lung,Stage I
+P0342,72,Male,Lake Cherylfurt,2021-05-06,Breast,Stage I
+P0343,81,Male,East Ashley,2020-07-26,Colorectal,Stage I
+P0344,76,Female,Rogersport,2024-04-11,Leukemia,Stage II
+P0345,84,Female,Christon,2024-05-26,Prostate,Stage I
+P0346,73,Female,Christopherville,2022-12-19,Breast,Stage I
+P0347,26,Female,East Sandramouth,2021-03-05,Colorectal,Stage I
+P0348,25,Female,Port David,2022-09-11,Prostate,Stage III
+P0349,72,Male,Ryanside,2024-08-07,Lung,Stage I
+P0350,36,Female,Michaelburgh,2024-06-16,Lung,Stage III
+P0351,29,Male,Bryantmouth,2023-08-25,Prostate,Stage I
+P0352,61,Male,Jesusfort,2021-06-03,Breast,Stage I
+P0353,56,Female,Jessicafort,2021-08-13,Lung,Stage II
+P0354,83,Female,North Jeffrey,2022-11-16,Leukemia,Stage III
+P0355,79,Male,Shariville,2024-09-05,Prostate,Stage I
+P0356,33,Male,South Lindaton,2024-05-04,Prostate,Stage III
+P0357,65,Male,New Alecview,2020-07-17,Lung,Stage III
+P0358,59,Female,Lake Crystalton,2021-01-21,Breast,Stage IV
+P0359,43,Female,Lake Amandaberg,2020-12-14,Leukemia,Stage II
+P0360,72,Female,Watsonmouth,2022-08-17,Breast,Stage II
+P0361,40,Female,Lewisfort,2021-11-23,Colorectal,Stage II
+P0362,27,Female,Douglasshire,2024-04-08,Colorectal,Stage IV
+P0363,44,Male,Port Cherylport,2021-01-12,Lung,Stage IV
+P0364,48,Female,Josephchester,2022-06-17,Lung,Stage II
+P0365,78,Male,Martinmouth,2022-07-04,Lung,Stage IV
+P0366,80,Male,Marymouth,2024-04-30,Colorectal,Stage IV
+P0367,57,Male,Port Natasha,2021-06-10,Breast,Stage IV
+P0368,48,Female,Danielland,2023-03-22,Breast,Stage II
+P0369,76,Female,South Monicahaven,2022-01-03,Lung,Stage II
+P0370,35,Female,Lake Johnville,2020-07-24,Leukemia,Stage II
+P0371,73,Male,North Andrew,2021-03-30,Breast,Stage IV
+P0372,32,Male,Jefferyborough,2023-07-20,Colorectal,Stage II
+P0373,60,Male,East Justin,2023-06-13,Prostate,Stage IV
+P0374,62,Male,Lake Lindsayville,2024-10-29,Prostate,Stage I
+P0375,64,Male,Moraview,2021-06-04,Prostate,Stage IV
+P0376,44,Male,New Anthony,2024-08-28,Leukemia,Stage III
+P0377,59,Female,Carterburgh,2022-10-13,Lung,Stage II
+P0378,72,Female,Jonesview,2022-08-13,Colorectal,Stage II
+P0379,49,Female,Maryshire,2021-12-26,Leukemia,Stage III
+P0380,59,Female,South Kenneth,2022-10-10,Colorectal,Stage IV
+P0381,49,Male,Loriport,2021-05-15,Colorectal,Stage I
+P0382,53,Male,Port Raymondland,2020-04-26,Lung,Stage III
+P0383,42,Female,South Michaelview,2021-01-20,Prostate,Stage III
+P0384,70,Male,Morganview,2023-09-29,Lung,Stage IV
+P0385,42,Female,North James,2021-08-06,Leukemia,Stage II
+P0386,26,Female,South Stephen,2021-01-29,Leukemia,Stage IV
+P0387,78,Female,Barryside,2022-12-23,Leukemia,Stage III
+P0388,59,Male,Lindatown,2024-10-06,Lung,Stage III
+P0389,40,Female,East Robertchester,2021-12-21,Colorectal,Stage II
+P0390,65,Female,South Angela,2020-03-12,Colorectal,Stage II
+P0391,60,Female,North Ashley,2024-12-17,Breast,Stage II
+P0392,57,Male,Pattonhaven,2020-09-30,Leukemia,Stage IV
+P0393,28,Male,Houstonport,2023-09-05,Colorectal,Stage II
+P0394,57,Female,New Nancy,2020-12-03,Breast,Stage III
+P0395,38,Male,Phamfurt,2023-10-21,Colorectal,Stage III
+P0396,45,Male,Marystad,2024-02-27,Leukemia,Stage I
+P0397,72,Male,Martinezberg,2021-08-29,Prostate,Stage IV
+P0398,44,Male,Johntown,2020-06-14,Leukemia,Stage I
+P0399,80,Male,Port Alejandroton,2024-04-16,Lung,Stage III
+P0400,32,Male,East Abigail,2020-01-11,Colorectal,Stage I
+P0401,31,Male,Castilloside,2023-08-17,Colorectal,Stage III
+P0402,27,Male,Port Kimberlystad,2021-12-29,Lung,Stage I
+P0403,41,Male,South Shaunchester,2022-03-11,Lung,Stage II
+P0404,57,Male,Chrisview,2020-04-11,Prostate,Stage I
+P0405,72,Female,Port Roymouth,2023-12-19,Colorectal,Stage II
+P0406,36,Female,East Danville,2023-11-16,Colorectal,Stage II
+P0407,83,Male,South Hayleyland,2022-02-17,Prostate,Stage IV
+P0408,75,Female,Port Malik,2020-08-01,Breast,Stage II
+P0409,46,Female,Port Lisaberg,2024-09-10,Prostate,Stage II
+P0410,79,Male,Jamiebury,2023-01-16,Leukemia,Stage I
+P0411,46,Male,New Jenniferburgh,2024-04-25,Colorectal,Stage III
+P0412,70,Male,Phillipview,2021-02-04,Lung,Stage IV
+P0413,54,Female,Port Michael,2021-08-10,Leukemia,Stage II
+P0414,62,Female,New Isaiahburgh,2022-06-07,Colorectal,Stage IV
+P0415,62,Male,Lake Williambury,2022-12-05,Prostate,Stage I
+P0416,69,Male,Lindsaystad,2024-08-22,Leukemia,Stage II
+P0417,75,Male,Munozstad,2024-01-26,Colorectal,Stage I
+P0418,78,Female,Evanmouth,2021-08-14,Breast,Stage IV
+P0419,32,Female,Kirbyview,2023-08-26,Breast,Stage I
+P0420,51,Female,Riosburgh,2023-01-14,Lung,Stage IV
+P0421,51,Female,Andersonville,2020-04-01,Colorectal,Stage I
+P0422,58,Male,New Elizabeth,2024-08-10,Breast,Stage IV
+P0423,45,Male,Staffordton,2021-11-03,Prostate,Stage III
+P0424,54,Male,Williamside,2021-12-14,Colorectal,Stage I
+P0425,57,Male,North Jonathan,2022-07-24,Prostate,Stage I
+P0426,52,Female,Boyerchester,2020-08-29,Prostate,Stage III
+P0427,71,Female,Williamschester,2020-01-02,Breast,Stage III
+P0428,57,Male,Anthonyport,2020-08-12,Colorectal,Stage I
+P0429,29,Male,New Keithberg,2022-03-11,Leukemia,Stage III
+P0430,84,Female,Patriciachester,2024-11-03,Breast,Stage II
+P0431,72,Male,South Markfurt,2021-08-11,Breast,Stage IV
+P0432,43,Female,Barbarachester,2020-04-25,Colorectal,Stage IV
+P0433,28,Male,Jamesmouth,2024-08-16,Colorectal,Stage IV
+P0434,59,Male,West Thomasfort,2022-07-06,Prostate,Stage II
+P0435,73,Male,Tylertown,2023-01-31,Colorectal,Stage III
+P0436,41,Male,Port Ashleymouth,2020-07-12,Prostate,Stage III
+P0437,68,Male,Garytown,2023-04-04,Breast,Stage I
+P0438,52,Male,New Jimmyfurt,2022-05-20,Lung,Stage III
+P0439,54,Male,Karinamouth,2020-03-30,Leukemia,Stage I
+P0440,53,Female,West Ashleytown,2024-09-05,Breast,Stage II
+P0441,70,Female,South Sean,2020-05-01,Colorectal,Stage IV
+P0442,77,Female,South Jason,2020-05-22,Leukemia,Stage IV
+P0443,30,Female,Willisborough,2022-09-20,Lung,Stage IV
+P0444,59,Female,East Danielbury,2020-04-15,Lung,Stage III
+P0445,84,Male,East Paul,2022-06-05,Prostate,Stage I
+P0446,65,Male,New Annaburgh,2021-03-03,Leukemia,Stage I
+P0447,61,Female,East John,2023-08-21,Prostate,Stage II
+P0448,48,Male,New Michaelport,2020-11-12,Breast,Stage III
+P0449,53,Female,Lynchhaven,2021-09-26,Leukemia,Stage II
+P0450,73,Female,Ryanbury,2020-01-09,Breast,Stage I
+P0451,70,Male,Abigailmouth,2022-02-12,Prostate,Stage I
+P0452,77,Male,East Pam,2023-01-01,Leukemia,Stage IV
+P0453,55,Male,Port Jonathanbury,2023-10-14,Prostate,Stage III
+P0454,59,Female,Adkinsbury,2020-08-10,Leukemia,Stage I
+P0455,84,Male,Joneshaven,2023-12-10,Prostate,Stage IV
+P0456,57,Female,West Cindyshire,2021-07-06,Lung,Stage III
+P0457,76,Female,North Robin,2023-10-25,Prostate,Stage II
+P0458,45,Female,Dakotatown,2021-12-16,Lung,Stage III
+P0459,56,Male,Sanchezstad,2023-07-11,Prostate,Stage III
+P0460,47,Male,Williamsfort,2024-09-09,Leukemia,Stage I
+P0461,57,Female,Turnerside,2023-09-03,Leukemia,Stage I
+P0462,27,Male,Atkinsmouth,2023-01-12,Leukemia,Stage III
+P0463,42,Male,Port Kathleenhaven,2023-09-03,Colorectal,Stage I
+P0464,49,Male,Adamsfort,2020-04-20,Breast,Stage I
+P0465,66,Female,Williamtown,2020-09-07,Leukemia,Stage I
+P0466,55,Female,Shawnmouth,2021-01-17,Lung,Stage IV
+P0467,78,Male,East Elizabeth,2020-01-07,Leukemia,Stage IV
+P0468,82,Female,Lake Dennisshire,2021-04-03,Colorectal,Stage III
+P0469,27,Male,Silvaburgh,2023-01-12,Lung,Stage I
+P0470,64,Male,West Roberto,2020-07-26,Colorectal,Stage IV
+P0471,70,Male,North Amy,2022-06-18,Lung,Stage III
+P0472,48,Male,Erikaside,2023-11-14,Prostate,Stage I
+P0473,74,Female,Frankport,2023-08-30,Breast,Stage II
+P0474,56,Female,Michaelfurt,2020-01-22,Breast,Stage I
+P0475,71,Female,East Jacobfurt,2021-02-13,Colorectal,Stage I
+P0476,46,Male,Martinezfurt,2022-06-13,Breast,Stage IV
+P0477,47,Male,Manningshire,2021-05-29,Colorectal,Stage III
+P0478,26,Male,East Sonya,2023-02-24,Colorectal,Stage III
+P0479,51,Female,Lake Amanda,2022-03-19,Colorectal,Stage IV
+P0480,66,Male,Mercedesmouth,2024-09-19,Breast,Stage I
+P0481,26,Female,Caldwellport,2022-05-23,Colorectal,Stage II
+P0482,50,Female,West Shannontown,2020-01-14,Breast,Stage I
+P0483,41,Female,North Sarahbury,2022-08-28,Colorectal,Stage I
+P0484,64,Female,Maddoxstad,2022-09-04,Leukemia,Stage II
+P0485,57,Female,Loveshire,2022-10-10,Colorectal,Stage IV
+P0486,33,Female,New Davidburgh,2022-11-01,Lung,Stage III
+P0487,67,Male,Mcmillanfort,2020-03-27,Colorectal,Stage IV
+P0488,78,Male,North Connormouth,2024-03-27,Prostate,Stage IV
+P0489,72,Female,Angelahaven,2022-06-27,Colorectal,Stage I
+P0490,63,Female,Mauriceton,2024-04-09,Lung,Stage III
+P0491,53,Male,North Jacobstad,2023-08-17,Lung,Stage III
+P0492,66,Female,Baileyhaven,2023-06-20,Breast,Stage IV
+P0493,79,Female,Meganfort,2020-05-01,Leukemia,Stage II
+P0494,50,Male,South Heather,2023-03-16,Colorectal,Stage IV
+P0495,59,Female,East Ann,2024-05-09,Breast,Stage II
+P0496,74,Female,Johnview,2022-01-19,Leukemia,Stage III
+P0497,49,Female,New Lisa,2023-10-11,Colorectal,Stage IV
+P0498,48,Male,Andreaborough,2021-11-15,Prostate,Stage I
+P0499,37,Male,Gatesstad,2024-10-22,Colorectal,Stage IV
+P0500,84,Male,North Lisa,2024-07-12,Lung,Stage III
+P0501,82,Female,South Angelaborough,2020-11-04,Lung,Stage I
+P0502,31,Female,Leslieton,2021-11-25,Prostate,Stage I
+P0503,81,Male,West Megan,2020-10-14,Breast,Stage II
+P0504,60,Female,Lake Peterport,2020-11-02,Leukemia,Stage I
+P0505,69,Female,Davidshire,2024-06-05,Colorectal,Stage I
+P0506,44,Female,Warrenfurt,2022-07-02,Lung,Stage IV
+P0507,25,Female,Joyceshire,2024-10-12,Breast,Stage III
+P0508,32,Female,Hansonside,2021-10-23,Prostate,Stage II
+P0509,70,Male,Judybury,2021-07-02,Lung,Stage IV
+P0510,40,Female,Bradfordview,2023-10-07,Prostate,Stage I
+P0511,38,Male,South Melissa,2020-11-07,Colorectal,Stage I
+P0512,36,Female,Johnsfort,2022-05-22,Leukemia,Stage II
+P0513,75,Male,West Robertstad,2022-12-18,Lung,Stage III
+P0514,47,Female,East Joshuaberg,2024-07-24,Lung,Stage II
+P0515,39,Male,West Bryan,2022-07-12,Colorectal,Stage IV
+P0516,52,Female,Hayesland,2024-10-03,Breast,Stage II
+P0517,58,Male,South Charlesfurt,2022-01-24,Leukemia,Stage I
+P0518,26,Female,Phillipsborough,2020-02-04,Lung,Stage IV
+P0519,56,Male,Sarahfort,2021-03-20,Leukemia,Stage I
+P0520,47,Female,Crosbytown,2020-04-02,Lung,Stage III
+P0521,46,Male,Williamshaven,2023-05-15,Leukemia,Stage I
+P0522,75,Male,Port Lisachester,2020-12-18,Prostate,Stage I
+P0523,49,Female,New Williamhaven,2022-06-21,Lung,Stage II
+P0524,82,Female,South Barbara,2023-09-17,Leukemia,Stage I
+P0525,46,Male,Heidihaven,2022-05-11,Breast,Stage IV
+P0526,82,Female,New Elizabeth,2024-10-14,Prostate,Stage IV
+P0527,82,Male,Kellyberg,2020-06-07,Prostate,Stage III
+P0528,46,Male,West Crystalbury,2022-08-14,Breast,Stage IV
+P0529,73,Male,Ritterhaven,2020-01-24,Leukemia,Stage II
+P0530,76,Female,East Brittanybury,2021-02-07,Colorectal,Stage III
+P0531,66,Male,Sarahfurt,2022-03-15,Breast,Stage IV
+P0532,30,Male,Vegaview,2021-05-30,Leukemia,Stage II
+P0533,39,Female,Seanstad,2022-01-01,Breast,Stage IV
+P0534,78,Female,Carterview,2023-10-19,Breast,Stage IV
+P0535,67,Female,New Nathan,2023-11-06,Lung,Stage I
+P0536,84,Female,Rossview,2021-06-15,Leukemia,Stage IV
+P0537,61,Male,Rebeccaburgh,2022-08-13,Colorectal,Stage IV
+P0538,57,Male,Johnfurt,2020-05-31,Lung,Stage II
+P0539,32,Male,Gravestown,2024-05-04,Breast,Stage II
+P0540,77,Male,Angelicaview,2024-09-08,Breast,Stage I
+P0541,84,Female,South Jessica,2022-08-04,Breast,Stage IV
+P0542,68,Male,Foxstad,2021-08-30,Leukemia,Stage I
+P0543,68,Male,Mcknightchester,2024-06-28,Leukemia,Stage IV
+P0544,29,Female,Barneschester,2021-02-23,Lung,Stage III
+P0545,63,Male,Johnsonburgh,2023-06-27,Colorectal,Stage III
+P0546,28,Male,Dawsonmouth,2023-02-14,Lung,Stage I
+P0547,30,Male,Hamiltonview,2022-05-15,Prostate,Stage I
+P0548,69,Male,Lisamouth,2024-03-15,Breast,Stage I
+P0549,56,Male,Baileyburgh,2024-10-29,Breast,Stage II
+P0550,76,Male,North Robertberg,2021-07-31,Breast,Stage II
+P0551,54,Female,Manuelmouth,2020-11-30,Lung,Stage II
+P0552,71,Female,Reginaldville,2023-12-12,Lung,Stage I
+P0553,59,Male,North Selena,2022-07-20,Breast,Stage IV
+P0554,79,Male,Ashleyport,2024-12-02,Lung,Stage III
+P0555,64,Female,Lake Katieside,2020-10-21,Leukemia,Stage I
+P0556,76,Male,Collinston,2022-01-24,Leukemia,Stage II
+P0557,40,Male,East Shanechester,2023-10-26,Lung,Stage II
+P0558,37,Male,West Matthewmouth,2020-07-04,Breast,Stage I
+P0559,74,Female,Arnoldhaven,2023-06-23,Lung,Stage I
+P0560,84,Male,West Michaelside,2021-09-28,Lung,Stage II
+P0561,66,Female,Lucasberg,2023-07-15,Lung,Stage IV
+P0562,54,Male,Jamieport,2024-07-24,Prostate,Stage II
+P0563,43,Female,North Jamesbury,2023-06-14,Leukemia,Stage II
+P0564,41,Female,Patriciaburgh,2021-06-13,Colorectal,Stage I
+P0565,80,Male,New Miguelborough,2024-04-24,Colorectal,Stage IV
+P0566,43,Female,Nicholechester,2020-01-21,Prostate,Stage II
+P0567,52,Male,Lake Michaelport,2022-06-29,Lung,Stage II
+P0568,82,Female,East Sandra,2024-10-26,Prostate,Stage III
+P0569,79,Male,Heatherton,2022-05-16,Prostate,Stage I
+P0570,50,Male,Port Rhondaville,2022-03-04,Breast,Stage III
+P0571,61,Female,East Amberfurt,2024-03-23,Leukemia,Stage III
+P0572,50,Male,West Jessicachester,2020-04-09,Colorectal,Stage II
+P0573,77,Male,Lake Derrickstad,2022-01-21,Lung,Stage I
+P0574,47,Female,Jamiemouth,2021-04-22,Colorectal,Stage IV
+P0575,33,Male,Curtischester,2024-06-10,Colorectal,Stage II
+P0576,36,Male,East Christopher,2023-08-14,Leukemia,Stage IV
+P0577,77,Female,New Jessicaville,2022-07-28,Colorectal,Stage IV
+P0578,25,Female,Port Nancybury,2021-06-09,Colorectal,Stage I
+P0579,82,Male,Jamesshire,2020-11-29,Prostate,Stage III
+P0580,82,Male,Port Cody,2020-01-02,Leukemia,Stage I
+P0581,25,Female,West Heiditown,2021-01-09,Breast,Stage IV
+P0582,71,Female,North Victoria,2020-10-19,Lung,Stage II
+P0583,58,Male,Cynthiaton,2022-04-16,Colorectal,Stage IV
+P0584,56,Female,Mitchellstad,2022-10-01,Lung,Stage II
+P0585,78,Male,Brownshire,2021-07-06,Breast,Stage II
+P0586,72,Male,North Davidside,2020-11-13,Lung,Stage I
+P0587,49,Male,Johnsonport,2024-03-05,Breast,Stage IV
+P0588,64,Male,Larrychester,2021-01-15,Prostate,Stage III
+P0589,69,Male,Joshuaside,2024-07-04,Colorectal,Stage IV
+P0590,77,Female,Kristaport,2020-01-14,Breast,Stage IV
+P0591,25,Female,Harrisburgh,2021-05-18,Lung,Stage III
+P0592,40,Female,South Stephen,2020-08-18,Colorectal,Stage I
+P0593,63,Female,Port Davidfort,2023-01-12,Prostate,Stage IV
+P0594,29,Male,South Katherine,2020-05-09,Colorectal,Stage IV
+P0595,46,Male,Samanthatown,2024-11-01,Breast,Stage II
+P0596,53,Male,Charlesfort,2022-04-17,Prostate,Stage IV
+P0597,79,Male,East Miachester,2023-03-14,Lung,Stage III
+P0598,27,Female,East Jeremy,2022-06-09,Prostate,Stage II
+P0599,36,Male,Walkerton,2020-01-28,Prostate,Stage I
+P0600,50,Male,Aguilarshire,2020-03-06,Leukemia,Stage II
+P0601,40,Female,East Stephanie,2023-04-01,Prostate,Stage III
+P0602,75,Female,West Douglas,2023-06-06,Prostate,Stage III
+P0603,61,Female,Lake Darinberg,2020-09-17,Colorectal,Stage II
+P0604,46,Female,Williamtown,2024-01-12,Lung,Stage I
+P0605,81,Male,South Micheal,2023-12-18,Colorectal,Stage II
+P0606,53,Male,Carlosland,2021-04-04,Colorectal,Stage I
+P0607,38,Female,Rollinsfurt,2024-08-26,Breast,Stage II
+P0608,52,Male,New Geoffreyside,2020-10-27,Colorectal,Stage III
+P0609,29,Male,South Kenneth,2022-07-07,Leukemia,Stage IV
+P0610,71,Male,Tracyshire,2023-08-19,Leukemia,Stage IV
+P0611,73,Female,Port Michealmouth,2020-10-13,Breast,Stage I
+P0612,54,Male,Martinport,2023-11-19,Lung,Stage I
+P0613,70,Female,Danielfurt,2022-10-30,Lung,Stage I
+P0614,76,Male,Beckmouth,2024-09-26,Colorectal,Stage III
+P0615,29,Male,Jeanetteburgh,2021-09-21,Colorectal,Stage II
+P0616,36,Male,Clarenceland,2020-09-26,Colorectal,Stage III
+P0617,40,Female,Port Lauren,2021-08-14,Lung,Stage IV
+P0618,50,Male,Morrismouth,2024-06-16,Prostate,Stage I
+P0619,50,Female,Benitezfurt,2024-12-06,Leukemia,Stage II
+P0620,72,Female,South Georgetown,2022-04-23,Prostate,Stage IV
+P0621,45,Female,Thomaston,2022-05-11,Prostate,Stage IV
+P0622,63,Male,Shortside,2023-10-16,Lung,Stage IV
+P0623,60,Male,Port Matthew,2023-07-04,Prostate,Stage III
+P0624,57,Male,West Kathrynmouth,2020-05-12,Breast,Stage I
+P0625,54,Male,Vincenttown,2023-07-23,Colorectal,Stage IV
+P0626,61,Female,Barbaraton,2024-12-04,Breast,Stage I
+P0627,47,Female,East Elizabeth,2024-09-02,Leukemia,Stage III
+P0628,82,Female,Nicholasview,2022-08-29,Colorectal,Stage IV
+P0629,34,Male,Kathrynmouth,2021-05-27,Prostate,Stage III
+P0630,78,Female,Mariafort,2020-11-08,Leukemia,Stage III
+P0631,29,Male,New Maryside,2021-07-29,Colorectal,Stage I
+P0632,60,Female,Salazarfort,2022-06-04,Prostate,Stage IV
+P0633,58,Male,Lopezfort,2023-07-31,Breast,Stage III
+P0634,76,Male,Port Jamesshire,2023-02-18,Colorectal,Stage IV
+P0635,55,Female,Davisstad,2023-02-04,Prostate,Stage I
+P0636,34,Female,Gravesside,2021-11-17,Breast,Stage III
+P0637,82,Female,South Heidi,2023-05-12,Leukemia,Stage I
+P0638,43,Female,Leeside,2020-06-13,Leukemia,Stage IV
+P0639,82,Male,South Shelleyland,2020-10-31,Leukemia,Stage IV
+P0640,56,Female,North Julie,2024-02-29,Leukemia,Stage I
+P0641,25,Female,Danielfort,2024-07-13,Lung,Stage II
+P0642,80,Female,West Jennifer,2024-04-28,Colorectal,Stage III
+P0643,29,Male,West John,2020-06-04,Colorectal,Stage IV
+P0644,69,Male,Port Leslie,2023-10-22,Lung,Stage IV
+P0645,28,Female,Livingstonborough,2024-10-08,Prostate,Stage III
+P0646,40,Male,North David,2021-09-11,Prostate,Stage I
+P0647,48,Female,Chloemouth,2023-06-28,Leukemia,Stage I
+P0648,40,Male,South Jessica,2022-08-14,Breast,Stage I
+P0649,79,Male,East Ashley,2020-11-29,Prostate,Stage II
+P0650,26,Male,Webershire,2024-07-23,Breast,Stage II
+P0651,73,Male,Thompsontown,2022-08-26,Colorectal,Stage IV
+P0652,52,Female,Kylemouth,2021-05-25,Breast,Stage I
+P0653,56,Female,Lake Dawn,2023-08-09,Colorectal,Stage III
+P0654,51,Female,Humphreyton,2022-11-09,Lung,Stage IV
+P0655,44,Male,Lake Heather,2020-10-08,Lung,Stage III
+P0656,48,Female,Jimmyview,2022-03-07,Leukemia,Stage IV
+P0657,36,Female,North Juan,2022-10-21,Prostate,Stage II
+P0658,74,Female,Lisamouth,2020-04-28,Leukemia,Stage IV
+P0659,59,Male,Woodmouth,2022-11-24,Colorectal,Stage II
+P0660,84,Male,Robertmouth,2020-07-16,Leukemia,Stage IV
+P0661,57,Male,Natashaborough,2021-04-29,Breast,Stage I
+P0662,57,Female,East Kristi,2024-11-15,Colorectal,Stage III
+P0663,75,Female,Tonyashire,2022-12-18,Lung,Stage I
+P0664,67,Female,Jessicabury,2022-04-16,Prostate,Stage IV
+P0665,61,Male,Michellefort,2023-03-30,Colorectal,Stage IV
+P0666,36,Male,Port Theresa,2022-10-05,Colorectal,Stage IV
+P0667,27,Female,Jeanetteton,2021-11-21,Breast,Stage II
+P0668,25,Male,Justinview,2023-05-14,Prostate,Stage III
+P0669,57,Male,Jacobstad,2022-11-01,Lung,Stage III
+P0670,64,Male,West Mary,2021-05-04,Colorectal,Stage IV
+P0671,34,Male,Caseyburgh,2020-10-02,Colorectal,Stage IV
+P0672,67,Female,Peggyhaven,2021-11-23,Breast,Stage II
+P0673,68,Male,North Marioland,2020-08-29,Leukemia,Stage I
+P0674,53,Male,Smithburgh,2023-05-24,Lung,Stage I
+P0675,37,Male,West Caleb,2023-06-28,Prostate,Stage III
+P0676,36,Male,Sandovalton,2020-05-05,Colorectal,Stage II
+P0677,55,Female,Greenetown,2020-08-04,Colorectal,Stage IV
+P0678,70,Female,Pamelaview,2023-08-22,Lung,Stage III
+P0679,26,Male,Hollyland,2024-12-25,Leukemia,Stage II
+P0680,75,Male,East Kelly,2023-04-23,Colorectal,Stage I
+P0681,74,Male,Jessicaville,2022-11-28,Lung,Stage II
+P0682,59,Male,South Darrylburgh,2023-05-31,Breast,Stage I
+P0683,47,Male,East Jessica,2023-04-22,Leukemia,Stage II
+P0684,41,Male,East Jeromemouth,2021-05-09,Prostate,Stage III
+P0685,50,Female,Warrenfurt,2021-03-02,Colorectal,Stage I
+P0686,32,Male,Lake Katelyn,2023-04-16,Lung,Stage III
+P0687,53,Female,Sextonfurt,2022-07-07,Breast,Stage III
+P0688,50,Female,South Tracy,2023-12-22,Prostate,Stage I
+P0689,34,Male,New Jenniferborough,2023-08-10,Lung,Stage I
+P0690,50,Female,South Matthewborough,2020-05-30,Lung,Stage IV
+P0691,58,Female,East Christinaton,2021-01-18,Prostate,Stage IV
+P0692,75,Female,West Jose,2024-07-19,Breast,Stage IV
+P0693,65,Female,West Trevor,2020-11-03,Breast,Stage III
+P0694,31,Female,Burgessview,2023-09-21,Leukemia,Stage III
+P0695,28,Female,Port Brandiburgh,2022-01-15,Colorectal,Stage IV
+P0696,82,Male,Drewburgh,2022-06-10,Prostate,Stage III
+P0697,77,Female,Lake Warren,2021-01-09,Prostate,Stage III
+P0698,74,Female,Veronicaport,2022-10-28,Prostate,Stage I
+P0699,69,Female,Jennachester,2023-09-26,Breast,Stage I
+P0700,35,Male,Lake Hollychester,2020-05-08,Colorectal,Stage III
+P0701,53,Female,Ewingland,2022-10-11,Leukemia,Stage IV
+P0702,80,Male,Lake Mark,2024-12-04,Lung,Stage II
+P0703,60,Female,Alvarezborough,2021-10-30,Lung,Stage IV
+P0704,49,Male,Browningfort,2023-10-07,Prostate,Stage II
+P0705,45,Male,Johnsonstad,2023-10-13,Colorectal,Stage IV
+P0706,81,Female,Brendaburgh,2021-05-31,Breast,Stage I
+P0707,60,Female,East Chelsea,2024-02-27,Colorectal,Stage III
+P0708,34,Male,North Meagan,2020-03-26,Colorectal,Stage III
+P0709,61,Female,South Brooke,2023-04-13,Breast,Stage I
+P0710,33,Male,Klinefurt,2024-12-30,Prostate,Stage II
+P0711,48,Male,Coleview,2023-05-01,Colorectal,Stage II
+P0712,59,Male,Meadowsfurt,2020-11-06,Lung,Stage II
+P0713,73,Male,Frederickhaven,2023-02-16,Breast,Stage I
+P0714,59,Male,Lake Cynthia,2023-05-26,Leukemia,Stage II
+P0715,72,Female,Hufftown,2021-03-02,Prostate,Stage I
+P0716,60,Male,Graytown,2023-12-08,Breast,Stage IV
+P0717,42,Male,North Mark,2020-04-23,Leukemia,Stage IV
+P0718,73,Female,Chandlerview,2023-03-14,Leukemia,Stage I
+P0719,63,Male,East Noah,2024-04-10,Colorectal,Stage III
+P0720,56,Female,Port Kelseyport,2024-07-29,Colorectal,Stage IV
+P0721,48,Female,Scottfort,2020-10-29,Colorectal,Stage II
+P0722,47,Female,East Brianstad,2022-01-13,Breast,Stage I
+P0723,56,Male,Lake Craig,2021-08-10,Breast,Stage II
+P0724,61,Male,Bradborough,2022-09-13,Prostate,Stage II
+P0725,36,Male,North Trevor,2020-12-10,Colorectal,Stage III
+P0726,73,Female,Martinland,2022-03-24,Leukemia,Stage II
+P0727,79,Male,Shaneland,2022-03-11,Lung,Stage III
+P0728,37,Female,Jennifertown,2022-10-21,Prostate,Stage IV
+P0729,47,Male,Rosalesfurt,2023-03-16,Breast,Stage I
+P0730,49,Female,Thomasshire,2023-08-03,Prostate,Stage II
+P0731,59,Male,Lake Carolshire,2024-08-04,Prostate,Stage I
+P0732,65,Male,New Kendraton,2022-12-12,Prostate,Stage II
+P0733,54,Male,East Steven,2023-08-20,Prostate,Stage I
+P0734,41,Female,North Jeffrey,2022-12-28,Lung,Stage II
+P0735,73,Female,Schmittberg,2020-12-26,Colorectal,Stage II
+P0736,44,Male,Lopezhaven,2024-06-13,Leukemia,Stage II
+P0737,72,Male,Lake Stevenshire,2023-05-28,Prostate,Stage II
+P0738,49,Female,East Rebecca,2022-10-06,Prostate,Stage II
+P0739,46,Female,Kennedyport,2021-12-04,Prostate,Stage II
+P0740,37,Female,Phyllisfurt,2021-07-28,Colorectal,Stage II
+P0741,83,Male,Colemanborough,2024-05-27,Breast,Stage II
+P0742,43,Female,Shortview,2023-03-30,Breast,Stage II
+P0743,73,Male,Johnsonville,2024-08-31,Lung,Stage I
+P0744,60,Female,South Natalieport,2023-01-17,Breast,Stage III
+P0745,36,Male,Port Ericaville,2021-11-18,Prostate,Stage II
+P0746,65,Female,West Jack,2022-02-19,Prostate,Stage III
+P0747,43,Female,New Brianside,2021-08-07,Prostate,Stage II
+P0748,36,Female,Tammyfort,2024-11-15,Lung,Stage II
+P0749,33,Female,Kevinbury,2021-08-11,Prostate,Stage I
+P0750,31,Female,Lake Staceyton,2023-03-28,Breast,Stage IV
+P0751,52,Male,South Edwardmouth,2021-05-03,Colorectal,Stage IV
+P0752,38,Female,Port Melissa,2022-08-28,Colorectal,Stage I
+P0753,55,Female,New Joe,2023-09-09,Leukemia,Stage III
+P0754,76,Female,Matthewside,2024-06-21,Breast,Stage IV
+P0755,43,Male,New Robertland,2023-11-05,Prostate,Stage I
+P0756,82,Female,West Gabrielport,2023-01-30,Colorectal,Stage I
+P0757,71,Male,Jonesbury,2021-05-08,Breast,Stage IV
+P0758,40,Female,Kelseymouth,2024-07-25,Colorectal,Stage III
+P0759,77,Female,Sharonport,2024-06-25,Prostate,Stage I
+P0760,29,Male,Dawnfurt,2020-01-19,Colorectal,Stage II
+P0761,59,Female,Hopkinsshire,2024-01-17,Leukemia,Stage III
+P0762,36,Male,Foxtown,2024-02-14,Leukemia,Stage III
+P0763,49,Male,New Shanemouth,2024-06-05,Colorectal,Stage IV
+P0764,76,Female,Lake Jose,2021-01-31,Breast,Stage IV
+P0765,83,Male,Hunterfort,2022-09-27,Breast,Stage II
+P0766,45,Female,Duncanview,2023-07-26,Breast,Stage I
+P0767,60,Female,Bethfurt,2022-04-30,Colorectal,Stage IV
+P0768,77,Male,Wendyborough,2023-10-20,Breast,Stage IV
+P0769,47,Male,Sarahbury,2023-09-16,Prostate,Stage III
+P0770,40,Male,Shawnton,2024-07-22,Leukemia,Stage IV
+P0771,81,Male,Andersonstad,2023-09-29,Prostate,Stage IV
+P0772,63,Female,Port Jonathanborough,2022-04-01,Breast,Stage IV
+P0773,69,Female,West Angelamouth,2021-03-30,Prostate,Stage IV
+P0774,77,Male,Port Adamside,2024-06-12,Breast,Stage III
+P0775,66,Female,North Kristen,2021-12-25,Colorectal,Stage II
+P0776,82,Female,Ortizhaven,2024-08-05,Prostate,Stage II
+P0777,63,Female,Lake Danielfort,2022-12-24,Colorectal,Stage I
+P0778,38,Female,Lake Derek,2023-01-04,Colorectal,Stage IV
+P0779,55,Male,Oliverfurt,2021-12-11,Lung,Stage III
+P0780,82,Male,East Douglasberg,2020-05-22,Breast,Stage I
+P0781,29,Female,Stephenview,2022-07-05,Leukemia,Stage I
+P0782,59,Male,Lake Markmouth,2022-04-07,Breast,Stage II
+P0783,47,Male,Port Michaelview,2021-08-27,Leukemia,Stage III
+P0784,53,Male,Lake Donald,2024-02-05,Breast,Stage III
+P0785,67,Female,Port Alishastad,2023-12-11,Colorectal,Stage III
+P0786,35,Female,West Brian,2020-10-31,Prostate,Stage II
+P0787,42,Female,Christinefurt,2022-01-05,Prostate,Stage II
+P0788,71,Male,Kelseyshire,2024-02-29,Lung,Stage II
+P0789,36,Female,Port Tyrone,2020-10-17,Leukemia,Stage II
+P0790,33,Female,Port Troyburgh,2020-04-11,Leukemia,Stage II
+P0791,34,Male,Franciscoport,2023-07-14,Leukemia,Stage IV
+P0792,82,Female,Carrollhaven,2022-05-16,Colorectal,Stage IV
+P0793,68,Female,Dodsonton,2022-08-25,Leukemia,Stage III
+P0794,41,Male,Warrenberg,2024-07-03,Prostate,Stage I
+P0795,62,Male,South Alan,2022-08-31,Colorectal,Stage III
+P0796,31,Male,Eduardofurt,2022-04-21,Breast,Stage I
+P0797,70,Female,West Sharon,2022-08-19,Leukemia,Stage II
+P0798,37,Female,East Williamburgh,2022-07-30,Leukemia,Stage I
+P0799,64,Female,East Brianna,2024-12-05,Breast,Stage III
+P0800,66,Male,Martinezton,2022-10-23,Leukemia,Stage III
+P0801,33,Male,East Jeffreyton,2020-03-25,Breast,Stage I
+P0802,74,Female,New Kennethside,2024-12-22,Colorectal,Stage IV
+P0803,51,Female,Port Hollystad,2020-11-23,Prostate,Stage II
+P0804,82,Male,Leechester,2022-03-26,Breast,Stage II
+P0805,26,Male,West Melanie,2024-01-13,Lung,Stage III
+P0806,29,Male,New Theresaland,2021-03-29,Breast,Stage IV
+P0807,53,Male,New Amy,2021-09-20,Leukemia,Stage I
+P0808,61,Female,North Robert,2023-05-29,Colorectal,Stage II
+P0809,62,Male,West Charlene,2023-03-23,Colorectal,Stage IV
+P0810,43,Female,Parkfurt,2021-10-26,Breast,Stage II
+P0811,32,Female,New Graceberg,2020-01-12,Prostate,Stage IV
+P0812,72,Female,Port Danielville,2023-03-02,Lung,Stage IV
+P0813,69,Male,Josemouth,2020-10-30,Colorectal,Stage III
+P0814,25,Male,Ronaldburgh,2023-08-09,Leukemia,Stage II
+P0815,46,Male,New Miguelfort,2022-09-01,Leukemia,Stage I
+P0816,76,Male,Port Rogermouth,2023-08-16,Prostate,Stage III
+P0817,41,Female,Chavezchester,2024-10-29,Colorectal,Stage III
+P0818,31,Male,Jenniferfort,2022-02-21,Breast,Stage I
+P0819,49,Male,Markstad,2020-02-12,Leukemia,Stage III
+P0820,69,Female,Westberg,2022-08-01,Prostate,Stage IV
+P0821,28,Male,Martinton,2020-12-08,Colorectal,Stage IV
+P0822,60,Female,East Sarahbury,2023-09-11,Colorectal,Stage II
+P0823,30,Female,Conwaytown,2021-05-12,Colorectal,Stage II
+P0824,84,Female,Melissaland,2020-12-29,Colorectal,Stage I
+P0825,55,Female,East David,2022-06-09,Colorectal,Stage II
+P0826,43,Female,Paulburgh,2021-03-02,Leukemia,Stage IV
+P0827,68,Female,Kingborough,2022-10-01,Prostate,Stage I
+P0828,78,Female,Erikmouth,2020-01-21,Colorectal,Stage I
+P0829,63,Female,Salasbury,2021-02-10,Lung,Stage II
+P0830,51,Male,East Bradleyville,2021-09-10,Lung,Stage IV
+P0831,34,Male,Port Ronald,2022-10-11,Prostate,Stage I
+P0832,50,Male,Lake Daniel,2020-12-01,Breast,Stage IV
+P0833,43,Male,Port Mark,2023-02-14,Breast,Stage IV
+P0834,63,Female,North Victormouth,2023-02-21,Breast,Stage IV
+P0835,27,Male,Vincentland,2021-02-02,Lung,Stage II
+P0836,69,Female,South Jacqueline,2022-03-03,Breast,Stage III
+P0837,37,Male,Paulland,2021-12-15,Leukemia,Stage III
+P0838,74,Male,Lake Justinmouth,2020-02-20,Colorectal,Stage I
+P0839,52,Male,West Melissashire,2024-12-11,Lung,Stage IV
+P0840,82,Female,New Ryan,2020-11-19,Prostate,Stage II
+P0841,44,Male,South Kevinberg,2022-02-27,Prostate,Stage IV
+P0842,52,Female,Brianside,2020-05-20,Colorectal,Stage IV
+P0843,32,Female,Foleyton,2021-04-14,Lung,Stage II
+P0844,65,Male,Kylechester,2022-02-25,Breast,Stage III
+P0845,63,Male,Trujillotown,2024-12-30,Breast,Stage IV
+P0846,25,Male,East Michelle,2023-09-19,Leukemia,Stage IV
+P0847,27,Female,Garciastad,2022-08-21,Leukemia,Stage III
+P0848,37,Male,New Robert,2022-10-04,Breast,Stage II
+P0849,52,Female,Caseyview,2021-01-07,Prostate,Stage I
+P0850,81,Female,North Timothymouth,2024-05-06,Prostate,Stage III
+P0851,84,Male,Nicholsonfort,2021-05-08,Leukemia,Stage I
+P0852,73,Male,Theresafort,2024-04-11,Colorectal,Stage I
+P0853,49,Female,Lake Dawnshire,2024-08-19,Breast,Stage III
+P0854,80,Female,West Victoriaview,2022-01-20,Leukemia,Stage IV
+P0855,57,Female,Johnsonside,2023-03-25,Leukemia,Stage I
+P0856,62,Male,West Cassandra,2020-10-17,Breast,Stage I
+P0857,77,Female,Whitemouth,2024-07-29,Breast,Stage II
+P0858,30,Male,Jamieburgh,2023-03-13,Prostate,Stage IV
+P0859,82,Female,New Sandra,2020-04-15,Colorectal,Stage I
+P0860,68,Female,South Haleyburgh,2023-12-14,Colorectal,Stage II
+P0861,69,Male,Sylviafort,2021-10-31,Breast,Stage IV
+P0862,56,Female,Williamside,2024-08-08,Lung,Stage III
+P0863,69,Male,North Douglas,2020-01-02,Leukemia,Stage III
+P0864,71,Male,Sloanborough,2021-08-11,Leukemia,Stage II
+P0865,45,Female,West Beth,2021-10-05,Breast,Stage III
+P0866,40,Male,West Vanessa,2020-03-30,Lung,Stage I
+P0867,78,Male,Nathanielton,2023-09-30,Prostate,Stage IV
+P0868,45,Female,Dennismouth,2020-12-15,Breast,Stage I
+P0869,35,Male,Port Brandon,2024-01-22,Breast,Stage I
+P0870,84,Male,South Edwinberg,2023-07-10,Leukemia,Stage III
+P0871,61,Male,Greenside,2023-10-06,Breast,Stage I
+P0872,60,Female,New Jill,2023-02-05,Breast,Stage III
+P0873,59,Male,Vickieborough,2024-05-28,Breast,Stage IV
+P0874,43,Female,Johnburgh,2022-11-28,Leukemia,Stage IV
+P0875,44,Female,Justinstad,2022-06-27,Prostate,Stage I
+P0876,81,Male,Katieport,2020-06-07,Prostate,Stage II
+P0877,42,Male,Leehaven,2024-05-25,Breast,Stage III
+P0878,71,Male,Port Victoriaborough,2022-08-16,Leukemia,Stage III
+P0879,65,Female,West Benjamin,2020-11-07,Prostate,Stage I
+P0880,73,Male,Hartshire,2023-06-18,Prostate,Stage III
+P0881,38,Male,Ianshire,2021-03-20,Prostate,Stage III
+P0882,39,Male,New Robinhaven,2020-10-24,Leukemia,Stage II
+P0883,55,Male,New Cindy,2022-08-09,Leukemia,Stage II
+P0884,25,Male,Walkermouth,2020-02-05,Breast,Stage I
+P0885,77,Female,Susanburgh,2023-01-12,Colorectal,Stage II
+P0886,78,Female,North Paul,2024-01-15,Prostate,Stage I
+P0887,78,Male,Smithview,2024-12-03,Colorectal,Stage IV
+P0888,27,Male,Robersonshire,2023-11-09,Leukemia,Stage I
+P0889,40,Male,Seanberg,2023-04-10,Leukemia,Stage IV
+P0890,47,Male,New Zachary,2023-10-31,Leukemia,Stage I
+P0891,81,Female,Karabury,2024-09-04,Colorectal,Stage III
+P0892,35,Male,Lake Maria,2023-10-17,Leukemia,Stage II
+P0893,36,Female,Port Deanna,2021-07-12,Breast,Stage IV
+P0894,34,Female,Danielmouth,2022-06-09,Leukemia,Stage I
+P0895,56,Male,Keithfort,2020-05-20,Lung,Stage II
+P0896,40,Female,Lake Erin,2022-06-05,Colorectal,Stage I
+P0897,32,Female,Walkerfurt,2023-02-15,Lung,Stage II
+P0898,62,Female,Carolynberg,2023-07-24,Leukemia,Stage II
+P0899,36,Female,North Kimberlyport,2021-12-26,Breast,Stage I
+P0900,48,Male,Lake Stephanie,2023-05-28,Prostate,Stage IV
+P0901,52,Male,Calderonside,2022-11-15,Leukemia,Stage IV
+P0902,77,Female,Lindaborough,2021-06-04,Breast,Stage III
+P0903,32,Male,Jamesberg,2024-12-11,Colorectal,Stage II
+P0904,82,Male,New Jill,2020-01-10,Lung,Stage III
+P0905,52,Male,Garrettmouth,2022-09-10,Lung,Stage III
+P0906,60,Male,Heatherburgh,2021-01-12,Lung,Stage I
+P0907,50,Male,South Amandaborough,2024-07-14,Colorectal,Stage I
+P0908,32,Female,Port Loriberg,2024-07-18,Breast,Stage I
+P0909,82,Male,South Steven,2021-11-12,Colorectal,Stage II
+P0910,84,Male,Melissaport,2021-08-06,Lung,Stage I
+P0911,74,Male,North Kyle,2020-05-31,Leukemia,Stage I
+P0912,52,Male,Rogersland,2021-12-20,Prostate,Stage II
+P0913,52,Female,Jenniferport,2022-12-08,Colorectal,Stage II
+P0914,61,Female,North Mistyside,2023-03-23,Colorectal,Stage IV
+P0915,65,Female,South Amychester,2022-05-08,Breast,Stage I
+P0916,60,Female,Josephside,2023-08-09,Breast,Stage I
+P0917,51,Male,East Mitchell,2024-05-22,Colorectal,Stage I
+P0918,78,Female,North Anthonyshire,2020-02-19,Lung,Stage IV
+P0919,41,Male,Williamborough,2021-10-25,Prostate,Stage I
+P0920,33,Male,New Deborah,2021-06-14,Breast,Stage IV
+P0921,57,Male,South Georgefurt,2024-06-23,Lung,Stage III
+P0922,77,Male,Youngport,2022-12-19,Leukemia,Stage IV
+P0923,44,Male,South Anna,2023-04-05,Breast,Stage III
+P0924,37,Female,Lake Cheryl,2023-05-10,Lung,Stage I
+P0925,52,Female,Frankmouth,2022-05-06,Lung,Stage III
+P0926,72,Female,Daughertyside,2020-05-25,Prostate,Stage IV
+P0927,53,Female,South Stanleymouth,2022-07-03,Prostate,Stage II
+P0928,37,Male,West Brandon,2024-08-26,Leukemia,Stage III
+P0929,70,Female,New Crystalview,2022-09-19,Lung,Stage III
+P0930,59,Male,West Andreaside,2024-01-02,Lung,Stage I
+P0931,30,Female,Mendozafurt,2020-08-29,Prostate,Stage IV
+P0932,42,Male,Warnerburgh,2021-08-03,Breast,Stage III
+P0933,75,Male,Edwardburgh,2021-11-17,Breast,Stage III
+P0934,29,Female,Lake Helen,2024-05-03,Colorectal,Stage III
+P0935,71,Male,East Mario,2021-04-27,Prostate,Stage III
+P0936,49,Male,North Patrickmouth,2023-02-05,Colorectal,Stage II
+P0937,26,Female,East Gloria,2023-06-03,Prostate,Stage IV
+P0938,34,Male,Josephhaven,2021-11-03,Leukemia,Stage I
+P0939,80,Female,Toddfort,2021-09-22,Lung,Stage I
+P0940,54,Female,South Stevehaven,2021-10-22,Leukemia,Stage II
+P0941,74,Female,West Chrisborough,2021-10-23,Prostate,Stage IV
+P0942,83,Male,Reedmouth,2023-12-26,Lung,Stage III
+P0943,69,Male,Michaelberg,2022-03-15,Breast,Stage II
+P0944,29,Male,Zacharyshire,2024-08-05,Breast,Stage IV
+P0945,79,Female,East Kevin,2021-02-22,Colorectal,Stage III
+P0946,80,Male,Kirkton,2022-09-14,Prostate,Stage II
+P0947,57,Female,Thomasfurt,2024-01-18,Prostate,Stage IV
+P0948,78,Female,North Derek,2023-03-29,Breast,Stage I
+P0949,25,Male,South Ambertown,2024-03-26,Leukemia,Stage I
+P0950,42,Female,Port Marisa,2021-10-11,Lung,Stage IV
+P0951,56,Male,Port Lisabury,2022-08-26,Leukemia,Stage I
+P0952,71,Male,Lake John,2021-08-12,Leukemia,Stage IV
+P0953,73,Male,West Garyton,2023-01-05,Breast,Stage III
+P0954,35,Male,Port Jennifershire,2021-05-23,Breast,Stage IV
+P0955,45,Male,Lake Stephanietown,2021-03-16,Breast,Stage III
+P0956,50,Female,Herreraburgh,2023-07-01,Colorectal,Stage II
+P0957,49,Female,Reneestad,2022-07-09,Leukemia,Stage IV
+P0958,46,Female,Josephstad,2022-02-08,Prostate,Stage II
+P0959,83,Male,South Josephfurt,2023-09-05,Lung,Stage I
+P0960,51,Male,Cherylville,2024-12-31,Colorectal,Stage III
+P0961,73,Male,West Louistown,2020-09-19,Prostate,Stage IV
+P0962,37,Female,South Carolynton,2024-06-08,Leukemia,Stage II
+P0963,57,Male,Brendanstad,2024-08-08,Breast,Stage III
+P0964,58,Female,West Katie,2024-04-26,Leukemia,Stage III
+P0965,65,Female,North Brandy,2023-10-29,Lung,Stage I
+P0966,59,Male,Michaelville,2021-09-28,Colorectal,Stage I
+P0967,25,Male,East Ashleeview,2023-04-05,Colorectal,Stage III
+P0968,45,Female,Port Randall,2024-11-11,Lung,Stage III
+P0969,72,Male,East Saraberg,2021-04-03,Prostate,Stage IV
+P0970,79,Female,Trevorport,2022-09-25,Prostate,Stage III
+P0971,30,Male,New Crystalchester,2023-07-27,Colorectal,Stage IV
+P0972,52,Male,Clarkberg,2021-11-30,Colorectal,Stage III
+P0973,41,Female,Melissaview,2020-10-28,Breast,Stage I
+P0974,29,Male,Wadeshire,2024-04-03,Prostate,Stage IV
+P0975,55,Female,Port Natasha,2024-05-22,Lung,Stage II
+P0976,29,Male,Smithside,2023-05-26,Prostate,Stage I
+P0977,62,Female,Gilmorehaven,2023-01-30,Breast,Stage IV
+P0978,27,Female,Brianchester,2021-07-07,Colorectal,Stage IV
+P0979,77,Male,Staffordbury,2020-10-14,Colorectal,Stage II
+P0980,47,Female,Cliffordbury,2023-04-05,Breast,Stage IV
+P0981,61,Male,Port Jasonport,2021-09-12,Lung,Stage III
+P0982,77,Male,Longton,2022-10-02,Colorectal,Stage II
+P0983,61,Male,Albertmouth,2020-02-05,Leukemia,Stage I
+P0984,34,Female,Roachburgh,2022-01-13,Colorectal,Stage I
+P0985,34,Female,Scottbury,2024-10-30,Leukemia,Stage III
+P0986,43,Male,Christinebury,2020-12-18,Breast,Stage I
+P0987,41,Male,Lake Heather,2024-08-26,Breast,Stage IV
+P0988,45,Female,North Ryan,2020-03-13,Colorectal,Stage IV
+P0989,38,Male,Powellburgh,2021-10-09,Prostate,Stage III
+P0990,33,Male,East Wendyland,2023-10-08,Leukemia,Stage I
+P0991,70,Female,New Deniseview,2022-12-29,Lung,Stage I
+P0992,25,Male,New Henryburgh,2021-02-28,Colorectal,Stage III
+P0993,75,Female,Karenshire,2022-09-25,Lung,Stage II
+P0994,69,Male,Melissaton,2021-12-08,Colorectal,Stage I
+P0995,37,Female,Lake Francesmouth,2024-12-09,Prostate,Stage II
+P0996,28,Male,South Autumntown,2021-07-14,Prostate,Stage I
+P0997,25,Male,Angelamouth,2022-04-07,Prostate,Stage I
+P0998,73,Female,West Jeremytown,2024-07-23,Prostate,Stage I
+P0999,64,Male,Victormouth,2022-08-13,Breast,Stage I
+P1000,56,Female,New Toddfort,2021-05-31,Breast,Stage IV

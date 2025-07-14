@@ -1,0 +1,21 @@
+Drug_Name,Drug_Class,Company
+Drug_A,Chemotherapy,"Dillon, Hammond and Walker"
+Drug_B,Immunotherapy,Jenkins Inc
+Drug_C,Hormone Therapy,"Mcintosh, Castaneda and Scott"
+Drug_D,Chemotherapy,Rodriguez-Booker
+Drug_E,Chemotherapy,"Buck, Brown and Friedman"
+Drug_F,Immunotherapy,Gonzalez Group
+Drug_G,Targeted Therapy,Norman-Kim
+Drug_H,Immunotherapy,Norman Inc
+Drug_I,Hormone Therapy,"Sullivan, Coleman and Jones"
+Drug_J,Hormone Therapy,Hamilton Inc
+Drug_K,Hormone Therapy,"Savage, Alexander and Mason"
+Drug_L,Hormone Therapy,"Petty, Fischer and Nelson"
+Drug_M,Hormone Therapy,Silva Inc
+Drug_N,Targeted Therapy,"Johnson, Bass and Snyder"
+Drug_O,Chemotherapy,Mitchell Group
+Drug_P,Immunotherapy,Mann-Hopkins
+Drug_Q,Immunotherapy,Guzman-Foster
+Drug_R,Hormone Therapy,Salinas LLC
+Drug_S,Immunotherapy,Harris-Miller
+Drug_T,Hormone Therapy,"Wood, Carpenter and Clay"
